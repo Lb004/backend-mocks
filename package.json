@@ -1,0 +1,7 @@
+{
+  "name": "backend-mocks",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  }
+}
